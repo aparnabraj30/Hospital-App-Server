@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Lifeline Multi Speciality Hospital",
+    "patientCount": 215007,
+    "location": "Pathanamthitta"
+  },
+  {
+    "name": "Ananthapuri Hospital",
+    "patientCount": 258761,
+    "location": "Trivandrum"
+  },
+  {
+    "name": "KIMS Healthcare Group",
+    "patientCount": 83291,
+    "location": "Kollam"
+  },
+  {
+    "name": "Lakeshore Hospital and Research Centre",
+    "patientCount": 54783,
+    "location": "Kochi"
+  },
+  {
+    "name": "Aster Medicity",
+    "patientCount": 80954,
+    "location": "Kochi"
+  },
+  {
+    "name": "Muthoot Hospital",
+    "patientCount": 14620,
+    "location": "Pathanamthitta"
+  },
+  {
+    "name": "Amrita Hospital",
+    "patientCount": 68745,
+    "location": "Kochi"
+  }
+]
